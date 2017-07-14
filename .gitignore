@@ -14,3 +14,4 @@ test/integration/**/index.html
 test/integration/**/actual.png
 test/integration/**/diff.png
 .eslintcache
+yarn.lock
